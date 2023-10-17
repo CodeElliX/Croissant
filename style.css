@@ -1,0 +1,13 @@
+body{
+    background-color: antiquewhite;
+}
+.main-cont{
+   text-align: center;
+}
+a{
+    padding: 20px;
+    color: blueviolet;
+}
+img{
+    margin-bottom: 30px;
+}
